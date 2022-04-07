@@ -1,6 +1,6 @@
 theme: "starter-hugo-academic"
 title: Academic # Website name
-baseurl: 'min1239.netlify.app' # Website URL
+baseurl: 'https://min1239.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
