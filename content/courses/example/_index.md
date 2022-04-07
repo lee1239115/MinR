@@ -1,7 +1,7 @@
 ---
 date: "2022-04-07"
 linkTitle: Purdue University
-summary: List of courses taught in Purdue University
+summary: A list of courses I taught in Purdue University
 title: "\U0001F4CA Purdue University"
 type: book
 
