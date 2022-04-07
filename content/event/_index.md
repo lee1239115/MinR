@@ -1,4 +1,7 @@
 ---
+active: false
+cms_exclude: true
+widget: hero
 header:
   caption: ""
   image: ""

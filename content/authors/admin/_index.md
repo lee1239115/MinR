@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
   - course: PhD in Industrial Engineering
@@ -18,9 +17,10 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Big Data (Healthcare Data) Analysis
+- Clustering and Classification
+- System Modeling and Simulation
+- Stochastic Optimization
 organizations:
 - name: Purdue University
   url: https://www.purdue.edu/

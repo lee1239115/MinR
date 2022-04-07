@@ -1,4 +1,7 @@
 ---
+cms_exclude: true
+active: false
+widget: projects
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
